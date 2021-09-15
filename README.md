@@ -1,54 +1,33 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
+# Todo List App
 
-## 🚀 Quick start
+Ramona Tin
+Live link: [To do List App] (http://localhost:8000/)
 
-1.  **Create a Gatsby site.**
+Step 1) Add changes
+git add.
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+Step 2) Commit Changes with message
+git commit -m "Whatever message'
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+Step 3) PUsh changes to github
+git push
 
-2.  **Start developing.**
+Making a new branch
+Step 1) Create new branch
+`git branch name-of-new`
 
-    Navigate into your new site’s directory and start it up.
+Step 2) Switch branch to github
+`git checkout name-of-branch`
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+Step 3) Add branch to github
+`git push --set-upstream origin name-of-branch`
 
-3.  **Open the code and start customizing!**
+//Styling sheet
+npm i -s semantic-ui-css semantic-ui-react
 
-    Your site is now running at http://localhost:8000!
+//npm server
+npm start
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+## Copying code from another branch
 
-4.  **Learn more**
-
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+'git merge name-of-other-branch'
