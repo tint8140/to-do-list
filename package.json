@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "private": true,
   "description": "To-do-list",
-  "author": "Tin Tin",
+  "author": "Ramona Tin",
   "keywords": [
     "gatsby"
   ],
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build",
+    "build": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
