@@ -1,7 +1,7 @@
 # Todo List App
 
 Ramona Tin
-Live link: [To do List App] (http://localhost:8000/)
+Live link: [To do List App] (https://in-info-web4.informatics.iupui.edu/~tintin/to-do-list/)
 
 Step 1) Add changes
 git add.
