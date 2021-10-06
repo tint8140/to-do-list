@@ -29,7 +29,7 @@
 
 3.  **Open the code and start customizing!**
 
-    Your site is now running at http://localhost:8000!
+    Your site is now running at https://in-info-web4.informatics.iupui.edu/~tintin/to-do-list/public/
 
     Edit `src/pages/index.js` to see your site update in real-time!
 
